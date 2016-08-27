@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+  fieldset{
+  border:0;
+  }
+  .fundo {
+  margin:0 auto;
+  margin-top:5px;
+  padding:10px;
+  border-radius:2px;
+  border:2px dashed transparent;
+  border-image:url(../../../../../../imagens/border/borda-middle-up.png) 40% round; 
+  background:#93826b; opacity:0.8;
+
+	  }
+  .personagem{
+	width:88px;
+	height: 126px;
+	margin:0 auto;
+  }
+  #criarPersonagem {
+  width:500px;
+  min-height:300px;
+  height:auto;
+border:4px solid transparent;
+  border-image:url(../../../../../../imagens/border/borda-middle-up.png) 40% round;
+  background-image:url(back.png);
+  border-radius:4px;
+  padding-top:50px;
+  padding-bottom:50px;
+  clear:both;
+  }
+  #criarPersonagem .fundo .formulario  .campo {
+  border-radius:3px;
+  padding:7px; 
+  width:120px;
+  -moz-box-shadow:inset -2px 0px 6px #9e9e9e;
+  -webkit-box-shadow:inset -2px 0px 6px #9e9e9e;
+  box-shadow:inset -2px 0px 3px #9e9e9e;
+  -moz-box-shadow: -2px 0px 6px #9e9e9e;
+  -webkit-box-shadow: -2px 0px 6px #9e9e9e;
+  box-shadow: -2px 0px 6px #9e9e9e;
+  }
+  #criarPersonagem .fundo .formulario{
+	margin:5px;
+  }
+ .botao {
+  border-radius:2px;
+  margin-top:5px;
+  width:388px;
+  border:0;
+  outline:none;
+  padding:6px 9px;
+  cursor:pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  -o-border-radius:3px;
+  -khtml-border-radius:3px;
+  border-radius:3px;
+  text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 1px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 1px 1px rgba(0, 0, 0, 0.15);
+  -o-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 1px 1px rgba(0, 0, 0, 0.15);
+  -khtml-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 1px 1px rgba(0, 0, 0, 0.15);
+  background-color:#507E0C;
+  color:#ffffff;	
+  border:1px solid #507E0C;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #addf58), color-stop(100%, #96c742));
+  background-image: -webkit-linear-gradient(#addf58,#96c742);	
+  background-image: -moz-linear-gradient(#addf58,#96c742);
+  background-image: -o-linear-gradient(#addf58,#96c742);	
+  background-image: linear-gradient(#addf58,#96c742);
+  }
+  .info, .success, .warning, .error, .validation {
+	border: 1px solid;
+	margin: 0 auto;
+	margin-bottom:2px;
+	width:355px;
+	border-radius:3px;
+	padding:10px 10px 10px 40px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	}
+	.info {
+		color: #00529B;
+		background-color: #BDE5F8;
+	}
+	.success {
+		color: #4F8A10;
+		background-color: #DFF2BF;
+	}
+	.warning {
+		color: #9F6000;
+		background-color: #FEEFB3;
+	}
+	.error {
+		color: #D8000C;
+		background-color: #FFBABA;
+	}

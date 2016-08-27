@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">Principal</layout>
+        <layout order="3">Carrega Inicio</layout>
+        <event-sheet active="1" order="1">Event sheet 1</event-sheet>
+        <event-sheet order="2">Event sheet 2</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="object-folder/Chares/" />
+        <folder expanded="1" path="object-folder/Mob/" />
+        <folder expanded="1" path="object-folder/Mundo/" />
+        <folder expanded="1" path="object-folder/Mundo/Casas/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="layout-folder/Paginas/" />
+        <folder expanded="1" path="layout-folder/Jogo/" />
+        <folder expanded="0" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/noName/" />
+        <folder expanded="1" path="animation-folder/InimigoCavaleiro1/" />
+        <folder expanded="1" path="animation-folder/InimigoNaruto2/" />
+        <folder expanded="1" path="animation-folder/inimigo1/" />
+        <folder expanded="1" path="animation-folder/mob/" />
+        <folder expanded="1" path="animation-folder/Enemy/" />
+        <folder expanded="1" path="animation-folder/InimigoCavaleiro2/" />
+        <folder expanded="1" path="animation-folder/Enemy2/" />
+        <folder expanded="1" path="animation-folder/Enemy3/" />
+        <folder expanded="1" path="animation-folder/InimigoCavaleiro3/" />
+        <folder expanded="1" path="animation-folder/inimigoBoss/" />
+        <folder expanded="1" path="animation-folder/EnemyBoss/" />
+        <folder expanded="1" path="animation-folder/colisao/" />
+        <folder expanded="1" path="animation-folder/tree/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_2/" />
+        <folder expanded="1" path="animation-folder/tree2/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_3/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_4/" />
+        <folder expanded="1" path="animation-folder/navio/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_5/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_6/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_7/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_8/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_9/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_10/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_11/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_12/" />
+        <folder expanded="1" path="animation-folder/terrain_atlas2_13/" />
+        <folder expanded="1" path="animation-folder/poco/" />
+        <folder expanded="1" path="animation-folder/hp_/" />
+        <folder expanded="1" path="animation-folder/mp_/" />
+        <folder expanded="1" path="animation-folder/hp_2/" />
+        <folder expanded="1" path="animation-folder/mp_2/" />
+        <folder expanded="1" path="animation-folder/mp/" />
+        <folder expanded="1" path="animation-folder/hp2/" />
+        <folder expanded="1" path="animation-folder/skillBar/" />
+        <folder expanded="1" path="animation-folder/skillBar_/" />
+        <folder expanded="1" path="animation-folder/skillBar_2/" />
+        <folder expanded="1" path="animation-folder/face_mario/" />
+        <folder expanded="1" path="animation-folder/nome/" />
+        <folder expanded="1" path="animation-folder/indicador/" />
+        <folder expanded="1" path="animation-folder/buton2/" />
+        <folder expanded="1" path="animation-folder/minimap_2/" />
+        <folder expanded="1" path="animation-folder/arrowupdown/" />
+        <folder expanded="1" path="animation-folder/bag/" />
+        <folder expanded="1" path="animation-folder/info/" />
+        <folder expanded="1" path="animation-folder/mail/" />
+        <folder expanded="1" path="animation-folder/stone/" />
+        <folder expanded="1" path="animation-folder/nome2/" />
+        <folder expanded="1" path="animation-folder/space_inv/" />
+        <folder expanded="1" path="animation-folder/sp5_sheet/" />
+        <folder expanded="1" path="animation-folder/SkillFogo/" />
+        <folder expanded="1" path="animation-folder/tiro/" />
+        <folder expanded="1" path="animation-folder/Explosao/" />
+        <folder expanded="1" path="animation-folder/SkillFogo2/" />
+        <folder expanded="1" path="animation-folder/Explosao2/" />
+        <folder expanded="1" path="animation-folder/Yoshi/" />
+        <folder expanded="1" path="animation-folder/puff/" />
+        <folder expanded="1" path="animation-folder/movimentoInimigo/" />
+        <folder expanded="1" path="animation-folder/campoVisao/" />
+        <folder expanded="1" path="animation-folder/HpInimigo/" />
+        <folder expanded="1" path="animation-folder/respawn1/" />
+        <folder expanded="1" path="animation-folder/RangeAtaqueInimigo/" />
+        <folder expanded="1" path="animation-folder/BolaFogoIcone/" />
+        <folder expanded="1" path="animation-folder/BolaFogo2Icone/" />
+        <folder expanded="1" path="animation-folder/YoshiIcone/" />
+        <folder expanded="1" path="animation-folder/cd1/" />
+        <folder expanded="1" path="animation-folder/cd2/" />
+        <folder expanded="1" path="animation-folder/cd3/" />
+        <folder expanded="1" path="animation-folder/RangeAtaquePlayer/" />
+        <folder expanded="1" path="animation-folder/hit/" />
+        <folder expanded="1" path="animation-folder/Projetil/" />
+        <folder expanded="1" path="animation-folder/redsnippertargethi/" />
+        <folder expanded="1" path="animation-folder/icon_espada/" />
+        <folder expanded="1" path="animation-folder/respawn2/" />
+        <folder expanded="1" path="animation-folder/item/" />
+        <folder expanded="1" path="animation-folder/item1/" />
+        <folder expanded="1" path="animation-folder/item2/" />
+        <folder expanded="1" path="animation-folder/info_char/" />
+        <folder expanded="1" path="animation-folder/info_char_/" />
+        <folder expanded="1" path="animation-folder/secao/" />
+        <folder expanded="1" path="animation-folder/items_loja/" />
+        <folder expanded="1" path="animation-folder/item_game/" />
+        <folder expanded="1" path="animation-folder/contaInfo/" />
+        <folder expanded="1" path="animation-folder/campoVisao2/" />
+        <folder expanded="1" path="animation-folder/HpInimigo2/" />
+        <folder expanded="1" path="animation-folder/movimentoInimigo2/" />
+        <folder expanded="1" path="animation-folder/RangeAtaqueInimigo2/" />
+        <folder expanded="1" path="animation-folder/campoVisao3/" />
+        <folder expanded="1" path="animation-folder/movimentoInimigo3/" />
+        <folder expanded="1" path="animation-folder/RangeAtaqueInimigo3/" />
+        <folder expanded="1" path="animation-folder/HpInimigo3/" />
+        <folder expanded="1" path="animation-folder/NPC_0/" />
+        <folder expanded="1" path="animation-folder/Iten_armor/" />
+        <folder expanded="1" path="animation-folder/respawn3/" />
+        <folder expanded="1" path="animation-folder/janelaNPC/" />
+        <folder expanded="1" path="animation-folder/escolhaNPC/" />
+        <folder expanded="1" path="animation-folder/escolha1/" />
+        <folder expanded="1" path="animation-folder/escolha2/" />
+        <folder expanded="1" path="animation-folder/escolha3/" />
+        <folder expanded="1" path="animation-folder/moedaTela/" />
+        <folder expanded="1" path="animation-folder/moedaChao/" />
+        <folder expanded="1" path="animation-folder/movimentoInimigoBoss/" />
+        <folder expanded="1" path="animation-folder/campoVisaoBoss/" />
+        <folder expanded="1" path="animation-folder/RangeAtaqueInimigoBoss/" />
+        <folder expanded="1" path="animation-folder/HpInimigoBoss/" />
+        <folder expanded="1" path="animation-folder/SkillFogoBoss/" />
+        <folder expanded="1" path="animation-folder/movimentoPlayer/" />
+        <folder expanded="1" path="animation-folder/quest/" />
+        <folder expanded="1" path="animation-folder/minimap/" />
+        <folder expanded="1" path="animation-folder/respawnBoss/" />
+        <folder expanded="1" path="animation-folder/RespawnPlayer/" />
+    </folders-expanded>
+</c2uistate>
